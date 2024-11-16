@@ -1,4 +1,4 @@
-
+ 
 
 This model teaches you any bodybuilding competition poses.
 It can store upto 3 poses. Cycle through each poses using '1', '2', '3' .
