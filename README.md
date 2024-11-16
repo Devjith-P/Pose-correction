@@ -1,7 +1,7 @@
 
 
 This model teaches you any bodybuilding competition poses.
-It can store upto 3 poses. Cycle thorugh each poses using '1', '2', '3' .
+It can store upto 3 poses. Cycle through each poses using '1', '2', '3' .
 
 -> Firstly, teach the model any bodybuilding pose using the hotkey 'C'  on keyboard.
 
