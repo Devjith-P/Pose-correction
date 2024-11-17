@@ -14,3 +14,5 @@ It can store upto 3 poses. Cycle through each poses using '1', '2', '3' .
 This can be usefull to noobies or even intermediate bodybuilders in mastering complex poses for their bodybuilding competitions.
 
 The demo video incudes me teaching the model each poses and it showing me remarks. Also you can see me adjusting according to the remarks.
+
+Video link :  https://drive.google.com/file/d/1tGNXVGFZLe0EvdxUdETnHfcPepJsczew/view?usp=sharing
